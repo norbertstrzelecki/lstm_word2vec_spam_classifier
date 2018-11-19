@@ -1,7 +1,7 @@
 # ignore jupyter checkpoints
 tmp
 .ipynb_checkpoints
-*.txt
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
