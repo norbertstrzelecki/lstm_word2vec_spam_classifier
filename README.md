@@ -4,4 +4,4 @@
    * word2vec embeddings with LSTMs
    * Morfeusz lemmatized vectors with TF-IDF and Multinomial Naive Bayes algorithm
     
-2) analytical: exploratory data analysis of noisy survey data
+2) analytical: exploratory analysis of noisy survey data
